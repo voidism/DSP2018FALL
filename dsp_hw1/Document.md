@@ -41,8 +41,8 @@ RAM: 32G
 
 ### visualize
 
-![ana](C:\Users\Jexus\Google 雲端硬碟\大三上\DSP\DSP2018FALL\dsp_hw1\c_cpp\ana.png)
+![](https://i.imgur.com/VwCBrtb.png)
 
 ### log scale for iteration axis
 
-![ana_log](C:\Users\Jexus\Google 雲端硬碟\大三上\DSP\DSP2018FALL\dsp_hw1\c_cpp\ana_log.png)
+![](https://i.imgur.com/pNTZtx1.png)
