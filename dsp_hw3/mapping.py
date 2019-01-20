@@ -14,5 +14,5 @@ for i in w:
         di.setdefault(j[0], set()).add(i[0])
 fw = open(sys.argv[2], 'w', encoding='big5-hkscs')
 for i in di.keys():
-    fw.write("%s %s\n" % (i, ' '.join(di[i])))
+    fw.write("%s\t%s\n" % (i, ' '.join(di[i])))
 fw.close()
